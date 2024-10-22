@@ -27,4 +27,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuvi-In&icon=2&color=2)](https://visitcount.itsvg.in)
 
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
