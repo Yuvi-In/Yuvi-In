@@ -1,7 +1,7 @@
 # 💫 About Me:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👋 Hi, I'm Yuvindu Induwara, a Software Engineering student and entrepreneur passionate about merging technology and innovation. I am the founder of Orgalaser Hologram Pvt. Ltd., where I lead the development of high-quality security holograms and laser-based products to prevent counterfeiting and enhance product safety.<br><br>🚀 My interests span across various fields, including software development, robotics, hologram technology, and product security. I'm currently exploring how to integrate robotics and holograms to create smart, secure solutions for real-world challenges.<br><br>💡 I'm a firm believer in continuous learning and collaboration. I'm always open to new ideas and partnerships that push the boundaries of technology and entrepreneurship.<br><br>🌱 Current focus: Building advanced robotics and smart systems, developing innovative hologram solutions, and expanding my skills in full-stack development.
+👋Hi, I'm Yuvindu Induwara, a Software Engineering student and founder of Orgalaser Hologram Pvt. Ltd. I specialize in security holograms, laser-based products, and exploring robotics to create innovative, secure solutions.<br><br>🚀 Passionate about technology and entrepreneurship, I'm focused on merging these fields to address real-world challenges.<br><br>💡Open to collaborations and new ideas!<br><br>🌱 Current focus: Building advanced robotics and smart systems, developing innovative hologram solutions, and expanding my skills in full-stack development.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yuvi-In&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yuvi-In&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvi-In&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+	
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yuvi-In&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
