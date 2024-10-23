@@ -1,14 +1,14 @@
+<div>
 <h1 align="center">
   Welcome to Yuvi-In's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-	
 </h1>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Yuvi-In;I+am+a+High+school+student;Web+Dev;Robetic+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 	<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
+</div>
 Profile Visit:
 
 [![](https://visitcount.itsvg.in/api?id=Yuvi-In&icon=2&color=2)](https://visitcount.itsvg.in)
@@ -59,7 +59,10 @@ Profile Visit:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">Contact Me: induwarayuvindu@gmail.com </div>
+<div align="center">Contact Me: induwarayuvindu@gmail.com</div> <br/>
+<div align="center">
+<picture><img src="https://github.com/user-attachments/assets/f3f9a8d8-dba9-451b-8c4b-fd615ece7611" width=100px></picture>
+</div>
 
 <!--Footer--> 
 <p align="center">
